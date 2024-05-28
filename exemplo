@@ -70,7 +70,7 @@ def escolher_opcoes():
 
 def main():
     os.system("cls")
-    exibir_nome_do_progrma()
+    exibir_maracutaia()
     definir_opcoes()
     escolher_opcoes()
 
